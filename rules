@@ -1,13 +1,5 @@
-@@||googleapis.com^
-@@||gvt2.com^
-@@||clickserve.dartsearch.net^
 ||chessbase.com^
 ||chess.com^
 ||lichess.org^
-news.google.co.in
-news.google.com
-@@||ad.doubleclick.net^$important
-@@||aax-eu.amazon.de^$important
-@@||okcupid.com^$important
-@@||api.okcupid.com^$important
-@@||www.dream11.com^$important
+||news.google.co.in^
+||news.google.com^
